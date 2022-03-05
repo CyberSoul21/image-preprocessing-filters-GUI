@@ -1,0 +1,17 @@
+-------------------------------------INSTRUCCIONES DE USO DE LA APLICACIÓN----------------------------------------------
+
+1.Despliegue las opciones del costado inferior izuquierdo para seleccionar la imagen previamente cargada en la imagen
+2.A continuación seleccione los filtros deseados, que desea aplicar sobre la imagen.
+3.En la segunda ventana del costado derecho aparecera la imagen modificada.
+4.si desea guardar la imagen modificado, hacer click en "Guardar Foto Actual"
+ -A continuación aparecera una ventana en la cual indicaremos la ruta en la cual se desea guardar la imagen
+ -Guaradar la imagen con el siguiente formato  nombredelaimagen.jpg
+
+5. Los filtros:
+   rgb m azul luz amarilla
+   rgb m naranja luz amarilla etapa 1  
+   rgb m naranja luz amarilla etapa 2
+
+  Corresponden al punto 7 del taller.
+  
+
